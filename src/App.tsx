@@ -246,7 +246,7 @@ export default function App() {
             <TrendingUp size={24} />
           </div>
           <div className="flex flex-col">
-            <h1 className="font-bold text-lg tracking-tight leading-tight">FiscalCtl</h1>
+            <h1 className="font-bold text-lg tracking-tight leading-tight">SistemCXC</h1>
             <span className="text-[10px] text-slate-500 font-bold uppercase tracking-widest">Financial Control</span>
           </div>
         </div>
