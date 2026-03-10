@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Cobros - Red de Tiendas",
+  "description": "Aplicación para la gestión de registros de cobro de cuentas por pagar con dashboard interactivo y reportes PDF, integrada con Google Sheets.",
+  "requestFramePermissions": []
+}
